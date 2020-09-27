@@ -1,0 +1,19 @@
+{
+  "name": "run",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/csdnViewer.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "nodemon": "^2.0.4",
+    "superagent": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/csdnViewer.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
