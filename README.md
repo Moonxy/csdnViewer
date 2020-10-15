@@ -3,6 +3,9 @@
 
 需要访问的个人主页地址填写在template目录中的info.json中
 
+superagent用于获取页面HTML
+cheerio用于操作DOM
+
 运行
 1.npm install
 
